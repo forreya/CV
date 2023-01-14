@@ -13,7 +13,7 @@ Despite being constantly overloaded with work during my degree, I always found a
 Having undertaken countless group projects and experiments over the last 5 years, I understand the importance of empathy when it comes to being good team player, especially when working with people who think and approach problems in a different way. At Makers, most of my time involves pair programming & team projects, which will teach me even more invaluable lessons in working efficiently and effectively in groups- especially in a programming setting.
 
 #### Independent Learning
-As are many software engineers, I am a very independent individual and am not afraid to dive into something I know little about. This makes me very adaptable as I am always ready to pick up new ideas and concepts, or even programming languages if needed, making me extremely flexible.
+As are many software engineers, I am a very independent individual and am not afraid to dive into something I know little about. This makes me very adaptable and flexible as I am always ready to pick up new ideas and concepts, or even programming languages if needed.
 
 ## Projects
 
