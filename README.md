@@ -27,8 +27,8 @@ As are many software engineers, I am a very independent individual and am not af
 #### Makers Academy (December 2022- )
 Still in progress.
 
-#### BSc Physics, University College London (2019 - 2022)
-- BSc (Hons) 2:1.
+#### Bachelor of Science, University College London (2019 - 2022)
+- Physics BSc (Hons) 2:1.
 
 #### Higher Education, Alice Smith International School (2014 - 2019)
 - 2 A*s in Mathematics, Physics & 2 As in Further Mathematics, Chemistry (Advanced Levels).
@@ -53,9 +53,13 @@ Still in progress.
 ## Other Interests
 
 #### Making Music
+I learnt to produce beats on my laptop many years ago as a fun pastime. As my expertise grew, I decided to start uploading my instrumentals to websites where musical artists can purchase licenses, granting them the rights to profit off songs that use my beats. Soon, I started to garner some sales and to this day I still love producing music in my spare time. I even embarked on a project where I developed my own music licensing website (see projects section).
 
 #### Skating
+One reason I fell in love with this sport was because of the genuine relationships that were fostered through skating with strangers who eventually became some of my closest friends. In everyday life, people are often overly concerned with social status, money, image, etc. When skating, all these day-to-day stresses are forgotten, everybody is equal, and you really get to know each other on the most personal level through the struggles & experiences you share. I believe this mindset to be invaluable in all aspects of life, so I always try my best to retain this outlook in every relationship I have.
 
 #### Basketball
+I represented my school for basketball and competed in international competitions that taught me how important comradery and communication are for success, especially in a team setting.
 
 #### Photography
+I love taking and editing photos of anything and everything. This is my <a href="https://www.instagram.com/ryan.likes.views/">photography page</a>.
