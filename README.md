@@ -1,5 +1,5 @@
 # Ryan Lai
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [OTHER INTERESTS](#other-interests)
 
 I'm Ryan- junior developer, bedroom artist and basketball fiend. After a uninspiring 3 years pursuing a Physics degree at UCL, I graduated in the summer of 2022 with the newfound exhilaration of finally being able to steer my life into a new direction. Intrinsically I've always been a hardworking and independent soul fuelled with the unwavering ambition to do great things in life. Being a very 'right-brained' person by nature, completing this highly quantitative degree provided the final facet of the skillset needed for my next pursuit- software engineering. 
 
