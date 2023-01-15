@@ -37,20 +37,21 @@ Still in progress.
 ## Experience
 
 #### Assistant in Website Development, <a href="https://wahine.wcapital.asia/">Wahine Capital</a> (Jun 2022 — Aug 2022)
-• Assisted in the frontend aspect of the company's prototype web pages.
-• Created a preliminary layout scheme for the company's web design and branding.
-• Involved in mapping out the structure and flow-chart of the company's website.
+- Assisted in the frontend aspect of the company's prototype web pages.
+- Created a preliminary layout scheme for the company's web design and branding.
+- Involved in mapping out the structure and flow-chart of the company's website.
 
 #### Tutoring Work Experience, <a href="https://www.thelocalteachers.co.uk/">The Local Teachers</a> (Nov 2020 — Mar 2021)
-• Worked as a teacher in a tutoring centre.
-• Travelled to student’s homes two to three times a week to tutor.
-• Taught physics, chemistry and mathematics ranging from GCSE to A levels.
+- Worked as a teacher in a tutoring centre.
+- Travelled to student’s homes two to three times a week to tutor.
+- Taught physics, chemistry and mathematics ranging from GCSE to A levels.
 
 #### Intern at a Financial Databasing Company, <a href="https://wvb.com/">World’Vest Base</a> (Jun 2017 — Jul 2017)
-• Assigned the task of updating excel spreadsheets by referencing raw data from the annual/ quarterly reports of a list of companies
-• Responsibilities included transferring data onto the company’s database & updating my department with new business reports.
+- Assigned the task of updating excel spreadsheets by referencing raw data from the annual/ quarterly reports of a list of companies
+- Responsibilities included transferring data onto the company’s database & updating my department with new business reports.
 
 ## Other Interests
+#### *(If you want to get to know me better)*
 
 #### Making Music
 I learnt to produce beats on my laptop many years ago as a fun pastime. As my expertise grew, I decided to start uploading my instrumentals to websites where musical artists can purchase licenses, granting them the rights to profit off songs that use my beats. Soon, I started to garner some sales and to this day I still love producing music in my spare time. I even embarked on a project where I developed my own music licensing website (see projects section).
