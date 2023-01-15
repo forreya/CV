@@ -28,7 +28,7 @@ As are many software engineers, I am a very independent individual and am not af
 Still in progress.
 
 #### BSc Physics, University College London (2019 - 2022)
-Physics: BSc (Hons) 2:1.
+- BSc (Hons) 2:1.
 
 #### Higher Education, Alice Smith International School (2014 - 2019)
 - 2 A*s in Mathematics, Physics & 2 As in Further Mathematics, Chemistry (Advanced Levels).
@@ -36,4 +36,26 @@ Physics: BSc (Hons) 2:1.
 
 ## Experience
 
-## Hobbies & Interests
+#### Assistant in Website Development, <a href="https://wahine.wcapital.asia/">Wahine Capital</a> (Jun 2022 — Aug 2022)
+• Assisted in the frontend aspect of the company's prototype web pages.
+• Created a preliminary layout scheme for the company's web design and branding.
+• Involved in mapping out the structure and flow-chart of the company's website.
+
+#### Tutoring Work Experience, <a href="https://www.thelocalteachers.co.uk/">The Local Teachers</a> (Nov 2020 — Mar 2021)
+• Worked as a teacher in a tutoring centre.
+• Travelled to student’s homes two to three times a week to tutor.
+• Taught physics, chemistry and mathematics ranging from GCSE to A levels.
+
+#### Intern at a Financial Databasing Company, <a href="https://wvb.com/">World’Vest Base</a> (Jun 2017 — Jul 2017)
+• Assigned the task of updating excel spreadsheets by referencing raw data from the annual/ quarterly reports of a list of companies
+• Responsibilities included transferring data onto the company’s database & updating my department with new business reports.
+
+## Other Interests
+
+#### Making Music
+
+#### Skating
+
+#### Basketball
+
+#### Photography
