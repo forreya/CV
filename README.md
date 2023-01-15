@@ -9,7 +9,7 @@ Looking to prepare for a career in this avenue, I began studying at <a href="htt
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [**Music Licensing Website**](https://github.com/forreya/music-licensing-website)      | A fullstack web application with various features. It's main purpose is to allow customers to purchase licenses for beats.                | React,  Strapi, etc             | ---       |
+| [**Music Licensing Website**](https://github.com/forreya/music-licensing-website)      | A fullstack web application with various features. It's main purpose is to allow customers to purchase licenses for beats.                | React,  Strapi, etc.             | ---       |
 | **---**       | ---                                         | ---           | ---                    |
 | **---**            | ---  | ---         | ---
 
